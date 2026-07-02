@@ -1,7 +1,12 @@
 {
   "expo": {
     "name": "Skinora",
-    "slug": "snack-bd5d41e9-b113-422d-bd17-4e500b724b28",
+    "slug": "skinora",
+    "extra": {
+      "eas": {
+        "projectId": "skinora"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "icon.png",
